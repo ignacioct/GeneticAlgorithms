@@ -88,8 +88,7 @@ A big part of my documentation in this subject consist on University lessons. Ho
 
 * [An introduction to Genetic Algorithms](https://mitpress.mit.edu/books/introduction-genetic-algorithms), by Melanie Michelle
 * [Python ThreadPoolExecutor Tutorial](https://tutorialedge.net/python/concurrency/python-threadpoolexecutor-tutorial/)
-* [Elitism in GA: should I let the elites be selected as parents?](https://stackoverflow.com/questions/14622342/elitism-in-ga-should-i-let-the-elites-be-selected-
-as-parents)
+* [Elitism in GA: should I let the elites be selected as parents?](https://stackoverflow.com/questions/14622342/elitism-in-ga-should-i-let-the-elites-be-selected-as-parents)
 * [Genetic Algorithms via Random Offspring Generation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.8662&rep=rep1&type=pdf) by Miguel Rocha and José P. Neves
 
 
