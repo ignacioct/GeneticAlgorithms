@@ -25,12 +25,12 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-
+</p>
 
 
 <!-- PROJECT LOGO -->
 <br />
-
+<p align="center">
   <a href="https://github.com/ignacioct/GeneticAlgorithms">
   </a>
 
