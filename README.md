@@ -32,7 +32,7 @@
   <a href="https://github.com/ignacioct/GeneticAlgorithms">
   </a>
 
-  <h3 align="center">Genetic Algorithms </h3>
+  <h1 align="center">Genetic Algorithms </h1>
 
   <p align="center">
     Collection of some techniques of Evolutionary Computation implemented in Python
